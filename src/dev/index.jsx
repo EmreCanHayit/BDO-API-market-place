@@ -34,7 +34,7 @@ function Dev() {
                 'id': 736018,
                 'lang': 'en'
             },
-            mode: 'no-cors'
+            mode: 'cors'
         };
 
         console.log(requestOptions)
