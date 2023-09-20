@@ -18,7 +18,7 @@ function Dev() {
         const base = "https://api.arsha.io/"
         const body = "util/db"
         const id = 736018
-        const lang = "tr"
+        const lang = "en"
         const url = base + body
         
         const requestOptions = {
